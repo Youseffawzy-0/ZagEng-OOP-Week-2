@@ -1,0 +1,19 @@
+Q no.1:
+
+default constructer: A constructor doesn't have parameter
+
+initialization list: Give values to the variables and make it run fast 
+
+parameterized constructor: A constructor that takes arguments to initialize an object with specific values
+
+........................................
+
+Q no.2:
+
+Destructor: The destructor is a special method that's called when the function that's the class called in ends.
+its use is to deallocate the memory that the constructor allocated
+ 
+.........................................
+Q no.3
+
+static classes aren't chained by its object and accessible (editable) by every object like global variables. 
